@@ -10,6 +10,11 @@ Remove the comment keys from lines 8-10 before running it then continue adding c
 Watch this youtube video for a step by step tutorial: 
 [Video](https://www.youtube.com/@cloudingwithBarden)
 
+## Contribution
+
+Thanks for your interest in contributing! There are many ways to contribute to this project. Get started [here] (https://github.com/Barden0/True-Eye-System/blob/main/Contributing.md)
+
+
 ## Author
 
 - [@Samuel Barden](https://www.samuelbarden.com)
