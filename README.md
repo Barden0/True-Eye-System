@@ -12,7 +12,8 @@ Watch this youtube video for a step by step tutorial:
 
 ## Contribution
 
-Thanks for your interest in contributing! There are many ways to contribute to this project. Get started [here](https://github.com/Barden0/True-Eye-System/blob/main/Contributing.md)
+Thanks for your interest in contributing! 
+Get started [here](https://github.com/Barden0/True-Eye-System/blob/main/Contributing.md)
 
 
 ## Author
